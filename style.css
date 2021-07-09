@@ -36,6 +36,14 @@ article #timer {
     padding: 5px;
     color: crimson;
     background-color: aliceblue;
-
     border-radius: 2px;
+}
+
+#botao {
+    background-color: rgb(243, 34, 34);
+    color: rgb(255, 255, 255);
+    width: 60px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #fff ;
+    border: solid 1px rgb(247, 247, 247);
 }
